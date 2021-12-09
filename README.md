@@ -1,6 +1,6 @@
 # Sala de bate papo
 
-Projeto que simula uma sala de bate papo com vários participantes. 
+Projeto que simula uma sala de bate-papo com vários participantes. 
 
 ![Tela principal](https://github.com/MarlonFL15/multiroom-chat/blob/master/imagens/imagem.png)
 
@@ -10,7 +10,7 @@ Projeto que simula uma sala de bate papo com vários participantes.
 
 Esse projeto foi desenvolvido no decorrer do curso de [Desenvolvedor node.js com mongodb](https://www.udemy.com/course/curso-completo-do-desenvolvedor-nodejs/), na udemy.
 
-O intuito do projeto era utilizar a biblioteca socket.io para desenvolver uma sala de bate papo.
+O intuito do projeto era utilizar a biblioteca socket.io para desenvolver uma sala de bate-papo.
 
 
 ### Instalação e configuração
@@ -29,7 +29,7 @@ Clone o projeto, entre no diretório e baixe todas as bibliotecas necessárias:
     $ npm install
     
     
-Após, isso baixa rodar o arquivo `app.js` e acessar o [localhost](http://localhost/) na porta 80
+Após, isso baixa rodar o arquivo `app.js` e acessar o [localhost](http://localhost/) na porta 80:
 
 
     $ node app.js
