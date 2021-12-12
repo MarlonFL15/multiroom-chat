@@ -29,7 +29,7 @@ Clone o projeto, entre no diretório e baixe todas as bibliotecas necessárias:
     $ npm install
     
     
-Após, isso baixa rodar o arquivo `app.js` e acessar o [localhost](http://localhost/) na porta 80:
+Após, isso basta rodar o arquivo `app.js` e acessar o [localhost](http://localhost/) na porta 80:
 
 
     $ node app.js
